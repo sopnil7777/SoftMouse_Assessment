@@ -1,0 +1,22 @@
+# Maven build output folders
+target/
+test-output/
+
+# IDE specific files (Eclipse)
+.classpath
+.project
+.settings/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Screenshots folder (optional)
+Screenshots/
+
+# Keep the Maven Wrapper jar in .mvn folder (if used)
+!/.mvn/wrapper/maven-wrapper.jar
+
